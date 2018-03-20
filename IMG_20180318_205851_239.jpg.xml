@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-16" ?>
+<Export>
+    <FileInfo>
+        <Properties>
+            <tag>/File/Main/FilePath</tag>
+            <type>ascii</type>
+            <count>60</count>
+            <value>C:\Users\kevin\Pictures\Insta360\IMG_20180318_205851_239.jpg</value>
+        </Properties>
+        <Properties>
+            <tag>/File/Main/FileName</tag>
+            <type>ascii</type>
+            <count>27</count>
+            <value>IMG_20180318_205851_239.jpg</value>
+        </Properties>
+        <Properties>
+            <tag>/File/Main/FileLocation</tag>
+            <type>ascii</type>
+            <count>33</count>
+            <value>C:\Users\kevin\Pictures\Insta360\</value>
+        </Properties>
+        <Properties>
+            <tag>/File/Main/FileExtension</tag>
+            <type>ascii</type>
+            <count>3</count>
+            <value>jpg</value>
+        </Properties>
+        <Properties>
+            <tag>/File/Main/FileSize</tag>
+            <type>ulong</type>
+            <count>1</count>
+            <value>4162660</value>
+        </Properties>
+        <Properties>
+            <tag>/File/Main/DateCreation</tag>
+            <type>sysdatetime</type>
+            <count>1</count>
+            <value>18.03.2018 22:31:34</value>
+        </Properties>
+        <Properties>
+            <tag>/File/Main/DateLastAccess</tag>
+            <type>sysdatetime</type>
+            <count>1</count>
+            <value>18.03.2018 22:31:36</value>
+        </Properties>
+        <Properties>
+            <tag>/File/Main/DateLastWrite</tag>
+            <type>sysdatetime</type>
+            <count>1</count>
+            <value>18.03.2018 22:31:36</value>
+        </Properties>
+    </FileInfo>
+    <ExifInfo>
+        <Properties>
+            <tag>/Exif/Image/Make</tag>
+            <type>ascii</type>
+            <count>8</count>
+            <value>Insta360</value>
+        </Properties>
+        <Properties>
+            <tag>/Exif/Image/Model</tag>
+            <type>ascii</type>
+            <count>12</count>
+            <value>Insta360 ONE</value>
+        </Properties>
+    </ExifInfo>
+    <IptcInfo />
+    <XmpInfo>
+        <Properties>
+            <tag>/Xmp/GooglePhotoSphere/Use Panorama Viewer</tag>
+            <type>xmptext</type>
+            <count>4</count>
+            <value>True</value>
+        </Properties>
+        <Properties>
+            <tag>/Xmp/GooglePhotoSphere/Capture Software</tag>
+            <type>xmptext</type>
+            <count>8</count>
+            <value>Insta360</value>
+        </Properties>
+        <Properties>
+            <tag>/Xmp/GooglePhotoSphere/Stitching Software</tag>
+            <type>xmptext</type>
+            <count>15</count>
+            <value>Insta360 Studio</value>
+        </Properties>
+        <Properties>
+            <tag>/Xmp/GooglePhotoSphere/Projection Type</tag>
+            <type>xmptext</type>
+            <count>15</count>
+            <value>equirectangular</value>
+        </Properties>
+        <Properties>
+            <tag>/Xmp/GooglePhotoSphere/Cropped Area Image Width Pixels</tag>
+            <type>xmptext</type>
+            <count>4</count>
+            <value>6912</value>
+        </Properties>
+        <Properties>
+            <tag>/Xmp/GooglePhotoSphere/Cropped Area Image Height Pixels</tag>
+            <type>xmptext</type>
+            <count>4</count>
+            <value>3456</value>
+        </Properties>
+        <Properties>
+            <tag>/Xmp/GooglePhotoSphere/Full Pano Width Pixels</tag>
+            <type>xmptext</type>
+            <count>4</count>
+            <value>6912</value>
+        </Properties>
+        <Properties>
+            <tag>/Xmp/GooglePhotoSphere/Full Pano Height Pixels</tag>
+            <type>xmptext</type>
+            <count>4</count>
+            <value>3456</value>
+        </Properties>
+        <Properties>
+            <tag>/Xmp/GooglePhotoSphere/Cropped Area Left Pixels</tag>
+            <type>xmptext</type>
+            <count>1</count>
+            <value>0</value>
+        </Properties>
+        <Properties>
+            <tag>/Xmp/GooglePhotoSphere/Cropped Area Top Pixels</tag>
+            <type>xmptext</type>
+            <count>1</count>
+            <value>0</value>
+        </Properties>
+        <Properties>
+            <tag>/Xmp/GooglePhotoSphere/Use Panorama Viewer</tag>
+            <type>xmptext</type>
+            <count>2</count>
+            <value>95</value>
+        </Properties>
+    </XmpInfo>
+</Export>

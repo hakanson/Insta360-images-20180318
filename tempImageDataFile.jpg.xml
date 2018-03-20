@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-16" ?>
+<Export>
+    <FileInfo>
+        <Properties>
+            <tag>/File/Main/FilePath</tag>
+            <type>ascii</type>
+            <count>54</count>
+            <value>C:\Users\kevin\Pictures\Insta360\tempImageDataFile.jpg</value>
+        </Properties>
+        <Properties>
+            <tag>/File/Main/FileName</tag>
+            <type>ascii</type>
+            <count>21</count>
+            <value>tempImageDataFile.jpg</value>
+        </Properties>
+        <Properties>
+            <tag>/File/Main/FileLocation</tag>
+            <type>ascii</type>
+            <count>33</count>
+            <value>C:\Users\kevin\Pictures\Insta360\</value>
+        </Properties>
+        <Properties>
+            <tag>/File/Main/FileExtension</tag>
+            <type>ascii</type>
+            <count>3</count>
+            <value>jpg</value>
+        </Properties>
+        <Properties>
+            <tag>/File/Main/FileSize</tag>
+            <type>ulong</type>
+            <count>1</count>
+            <value>1027693</value>
+        </Properties>
+        <Properties>
+            <tag>/File/Main/DateCreation</tag>
+            <type>sysdatetime</type>
+            <count>1</count>
+            <value>18.03.2018 23:03:54</value>
+        </Properties>
+        <Properties>
+            <tag>/File/Main/DateLastAccess</tag>
+            <type>sysdatetime</type>
+            <count>1</count>
+            <value>18.03.2018 23:03:54</value>
+        </Properties>
+        <Properties>
+            <tag>/File/Main/DateLastWrite</tag>
+            <type>sysdatetime</type>
+            <count>1</count>
+            <value>18.03.2018 23:03:55</value>
+        </Properties>
+    </FileInfo>
+    <ExifInfo>
+        <Properties>
+            <tag>/Exif/Image/Make</tag>
+            <type>ascii</type>
+            <count>8</count>
+            <value>Insta360</value>
+        </Properties>
+        <Properties>
+            <tag>/Exif/Image/Model</tag>
+            <type>ascii</type>
+            <count>12</count>
+            <value>Insta360 ONE</value>
+        </Properties>
+        <Properties>
+            <tag>/Exif/Image/Orientation</tag>
+            <type>ushort</type>
+            <count>1</count>
+            <value>1</value>
+        </Properties>
+        <Properties>
+            <tag>/Exif/Image/ResolutionUnit</tag>
+            <type>ushort</type>
+            <count>1</count>
+            <value>2</value>
+        </Properties>
+        <Properties>
+            <tag>/Exif/Image/Software</tag>
+            <type>ascii</type>
+            <count>12</count>
+            <value>Insta360 ONE</value>
+        </Properties>
+        <Properties>
+            <tag>/Exif/Image/Copyright</tag>
+            <type>ascii</type>
+            <count>11</count>
+            <value>copyrightÂ®</value>
+        </Properties>
+        <Properties>
+            <tag>/Exif/Photo/ExifVersion</tag>
+            <type>undefined</type>
+            <count>4</count>
+            <value>0220</value>
+        </Properties>
+        <Properties>
+            <tag>/Exif/Photo/ColorSpace</tag>
+            <type>ushort</type>
+            <count>1</count>
+            <value>1</value>
+        </Properties>
+        <Properties>
+            <tag>/Exif/Photo/PixelXDimension</tag>
+            <type>ulong</type>
+            <count>1</count>
+            <value>6912</value>
+        </Properties>
+        <Properties>
+            <tag>/Exif/Photo/PixelYDimension</tag>
+            <type>ulong</type>
+            <count>1</count>
+            <value>3456</value>
+        </Properties>
+        <Properties>
+            <tag>/Exif/Photo/ImageUniqueID</tag>
+            <type>ascii</type>
+            <count>32</count>
+            <value>b188f1a5f6f23a500000000000000000</value>
+        </Properties>
+        <Properties>
+            <tag>/Exif/Gps/VersionID</tag>
+            <type>byte</type>
+            <count>4</count>
+            <value>2.2.0.0</value>
+        </Properties>
+        <Properties>
+            <tag>/Exif/Gps/LatitudeRef</tag>
+            <type>ascii</type>
+            <count>1</count>
+            <value>N</value>
+        </Properties>
+        <Properties>
+            <tag>/Exif/Gps/Latitude</tag>
+            <type>urational</type>
+            <count>3</count>
+            <value>11186137° 0.000000&apos;</value>
+        </Properties>
+        <Properties>
+            <tag>/Exif/Gps/LongitudeRef</tag>
+            <type>ascii</type>
+            <count>1</count>
+            <value>W</value>
+        </Properties>
+        <Properties>
+            <tag>/Exif/Gps/Longitude</tag>
+            <type>urational</type>
+            <count>3</count>
+            <value>93287719° 0.000000&apos;</value>
+        </Properties>
+        <Properties>
+            <tag>/Exif/Gps/AltitudeRef</tag>
+            <type>byte</type>
+            <count>1</count>
+            <value>0</value>
+        </Properties>
+        <Properties>
+            <tag>/Exif/Gps/Altitude</tag>
+            <type>urational</type>
+            <count>3</count>
+            <value>302.20 m</value>
+        </Properties>
+        <Properties>
+            <tag>/Exif/Thumbnail/Compression</tag>
+            <type>ushort</type>
+            <count>1</count>
+            <value>6</value>
+        </Properties>
+        <Properties>
+            <tag>/Exif/Thumbnail/XResolution</tag>
+            <type>urational</type>
+            <count>1</count>
+            <value>72/1</value>
+        </Properties>
+        <Properties>
+            <tag>/Exif/Thumbnail/YResolution</tag>
+            <type>urational</type>
+            <count>1</count>
+            <value>72/1</value>
+        </Properties>
+        <Properties>
+            <tag>/Exif/Thumbnail/ResolutionUnit</tag>
+            <type>ushort</type>
+            <count>1</count>
+            <value>2</value>
+        </Properties>
+    </ExifInfo>
+    <IptcInfo />
+    <XmpInfo>
+        <Properties>
+            <tag>/Xmp/GooglePhotoSphere/Projection Type</tag>
+            <type>xmptext</type>
+            <count>15</count>
+            <value>equirectangular</value>
+        </Properties>
+        <Properties>
+            <tag>/Xmp/GooglePhotoSphere/Cropped Area Image Width Pixels</tag>
+            <type>xmptext</type>
+            <count>4</count>
+            <value>6912</value>
+        </Properties>
+        <Properties>
+            <tag>/Xmp/GooglePhotoSphere/Cropped Area Image Height Pixels</tag>
+            <type>xmptext</type>
+            <count>4</count>
+            <value>3456</value>
+        </Properties>
+        <Properties>
+            <tag>/Xmp/GooglePhotoSphere/Full Pano Width Pixels</tag>
+            <type>xmptext</type>
+            <count>4</count>
+            <value>6912</value>
+        </Properties>
+        <Properties>
+            <tag>/Xmp/GooglePhotoSphere/Full Pano Height Pixels</tag>
+            <type>xmptext</type>
+            <count>4</count>
+            <value>3456</value>
+        </Properties>
+        <Properties>
+            <tag>/Xmp/GooglePhotoSphere/Cropped Area Left Pixels</tag>
+            <type>xmptext</type>
+            <count>1</count>
+            <value>0</value>
+        </Properties>
+        <Properties>
+            <tag>/Xmp/GooglePhotoSphere/Cropped Area Top Pixels</tag>
+            <type>xmptext</type>
+            <count>1</count>
+            <value>0</value>
+        </Properties>
+        <Properties>
+            <tag>/Xmp/GooglePhotoSphere/Use Panorama Viewer</tag>
+            <type>xmptext</type>
+            <count>3</count>
+            <value>100</value>
+        </Properties>
+        <Properties>
+            <tag>/Xmp/GooglePhotoSphere/Initial Horizontal FOV Degrees</tag>
+            <type>xmptext</type>
+            <count>3</count>
+            <value>100</value>
+        </Properties>
+        <Properties>
+            <tag>/Xmp/GooglePhotoSphere/Pose Heading Degrees</tag>
+            <type>xmptext</type>
+            <count>1</count>
+            <value>0</value>
+        </Properties>
+        <Properties>
+            <tag>/Xmp/GooglePhotoSphere/Pose Pitch Degrees</tag>
+            <type>xmptext</type>
+            <count>1</count>
+            <value>0</value>
+        </Properties>
+        <Properties>
+            <tag>/Xmp/GooglePhotoSphere/Pose Roll Degrees</tag>
+            <type>xmptext</type>
+            <count>1</count>
+            <value>0</value>
+        </Properties>
+        <Properties>
+            <tag>/Xmp/GooglePhotoSphere/Use Panorama Viewer</tag>
+            <type>xmptext</type>
+            <count>4</count>
+            <value>True</value>
+        </Properties>
+        <Properties>
+            <tag>/Xmp/GooglePhotoSphere/Capture Software</tag>
+            <type>xmptext</type>
+            <count>12</count>
+            <value>Insta360 ONE</value>
+        </Properties>
+        <Properties>
+            <tag>/Xmp/GooglePhotoSphere/Stitching Software</tag>
+            <type>xmptext</type>
+            <count>12</count>
+            <value>Insta360 ONE</value>
+        </Properties>
+        <Properties>
+            <tag>/Xmp/GooglePhotoSphere/Use Panorama Viewer</tag>
+            <type>xmptext</type>
+            <count>25</count>
+            <value>2018-03-19 01:58:51 +0000</value>
+        </Properties>
+    </XmpInfo>
+</Export>
